@@ -1,1 +1,1 @@
-[CI/CD](cicd.md)
+# Easy AWS
